@@ -12,7 +12,9 @@ var wechatUrl ="https://test-91f3af.tcb.qcloud.la/common/WechatIMG2.jpeg?sign=e8
  * 云开发环境
  */
 //var env ="product-raeub"
-var env ="test-91f3af"
+// var env ="test-91f3af"
+var env ="slsw-server-a27e1d"
+
 /**
  * 个人文章操作枚举
  */
